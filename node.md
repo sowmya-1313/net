@@ -21,3 +21,4 @@ $ns duplex-link-op $n0 $n1 queuePos 0.5
 $ns at 5.0 "finish"
 $ns run
 
+
